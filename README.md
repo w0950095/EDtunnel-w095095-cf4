@@ -18,11 +18,11 @@ GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/w0950095/EDtunnel/blob/main/_worker.js).
+1. Copy `_worker.js` code from [here](https://github.com/w0950095/EDtunnel-w095095-cf4/blob/main/_worker.js).
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/w0950095/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/w0950095/EDtunnel-w095095-cf4)
 
 ## Lazy to deploy
 
