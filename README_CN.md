@@ -20,11 +20,11 @@
 
 ## 在 worker.dev 部署
 
-1. 从[这里](https://github.com/w0950095/EDtunnel/blob/main/_worker.js)复制 `_worker.js` 代码。
+1. 从[这里](https://github.com/w0950095/EDtunnel-w095095-cf4/blob/main/_worker.js)复制 `_worker.js` 代码。
 
 2. 另外，你可以点击下面的按钮直接进行部署。
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/w0950095/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/w0950095/EDtunnel-w095095-cf4)
 
 ## 如何快速使用
 
