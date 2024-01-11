@@ -1,4 +1,4 @@
-name = "cf4work" # todo
+name = "cfwork1" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -11,7 +11,7 @@ compatibility_date = "2023-05-26"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
-# API_HOST = "api.v2board.com"
+PROXYIP = "work1.liumingan.cloudns.biz, work2.liumingan.cloudns.biz, work3.liumingan.cloudns.biz, work4.liumingan.cloudns.biz, work5.liumingan.cloudns.biz, work6.liumingan.cloudns.biz"
 UUID = "84c983bc-36c7-4a5f-9fd7-2beec4cade9a"
 
 [placement]
